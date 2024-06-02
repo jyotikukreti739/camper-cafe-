@@ -1,0 +1,91 @@
+.menu {
+    width: 80%;
+    background-color: burlywood;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg);
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+main {
+    display: block;
+    unicode-bidi: isolate;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -25px;
+}
+.article {
+    display: block;
+    unicode-bidi: isolate;
+}
+h1, h2 {
+    font-family: Impact, serif;
+}
+h1 {
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+section {
+    display: block;
+    unicode-bidi: isolate;
+}
+.item p {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+.established {
+    text-align: center;
+
+
+}
+.price {
+    text-align: right;
+    float: right;
+    width: 25%;
+}
+.flavor, .dessert {
+    text-align: left;
+    width: 75%;
+}
+.p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    unicode-bidi: isolate;
+}
+hr {
+    height: 2px;
+    background-color: brown;
+    border-color: brown;
+}
+footer {
+    font-size: 14px;
+}
+footer {
+    display: block;
+    unicode-bidi: isolate;
+    text-align: center;
+}
+a {
+    color: black;
+    
+    
+}
+.address {
+    margin-bottom: 5px;
+    text-align: center;
+}
